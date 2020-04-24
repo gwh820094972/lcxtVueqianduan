@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef8d80f3-0d81-479b-be56-741a946bf08a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/assets/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/assets/font_1713848_fl1mfvmad65/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/assets/font_1713848_fl1mfvmad65/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/assets/font_1713848_fl1mfvmad65/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/assets/font_1713848_fl1mfvmad65/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/assets/font_1713848_fl1mfvmad65/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/assets/font_1713848_fl1mfvmad65/iconfont.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/assets/font_1713848_fl1mfvmad65/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/assets/font_1713848_fl1mfvmad65/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/assets/font_1713848_fl1mfvmad65/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/assets/font_1713848_fl1mfvmad65/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/components/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/components/register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/src/plugins/elementUI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcxtvue/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcxtvue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/lcxtvue/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcxtvue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/lcxtvue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcxtvue/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lcxtvue/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcxtvue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/lcxtvue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcxtvue/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcxtvue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lcxtvue/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcxtvue/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lcxtvue/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcxtvue/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcxtvue/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/lcxtvue/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lcxtvue" />
+  </component>
+  <component name="ProjectId" id="1ZenGlzg7lgvjEpqKqs3JylgjzS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef8d80f3-0d81-479b-be56-741a946bf08a" name="Default Changelist" comment="" />
+      <created>1585208333127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585208333127</updated>
+      <workItem from="1585208337934" duration="551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
